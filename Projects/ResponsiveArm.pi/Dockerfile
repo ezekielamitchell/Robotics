@@ -12,7 +12,7 @@ RUN apt-get update && apt-get install -y \
     && apt-get clean
 
 # Install PCA9685 driver library
-RUN pip install adafruit-circuitpython-pca9685
+RUN pip install adafruit-circuitpython-servokit adafruit-blinka
 
 # Copy application code
 COPY . .
