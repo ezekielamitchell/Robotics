@@ -1,0 +1,2 @@
+[console_scripts]
+python_node = pkg1.node1:main

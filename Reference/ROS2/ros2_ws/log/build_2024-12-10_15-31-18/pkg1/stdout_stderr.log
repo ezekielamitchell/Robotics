@@ -1,0 +1,20 @@
+running develop
+running egg_info
+creating pkg1.egg-info
+writing pkg1.egg-info/PKG-INFO
+writing dependency_links to pkg1.egg-info/dependency_links.txt
+writing requirements to pkg1.egg-info/requires.txt
+writing top-level names to pkg1.egg-info/top_level.txt
+writing manifest file 'pkg1.egg-info/SOURCES.txt'
+reading manifest file 'pkg1.egg-info/SOURCES.txt'
+writing manifest file 'pkg1.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg1/lib/python3.12/site-packages/pkg1.egg-link (link to .)
+
+Installed /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/build/pkg1
+running symlink_data
+creating /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg1/share/ament_index
+creating /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg1/share/ament_index/resource_index
+creating /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg1/share/ament_index/resource_index/packages
+symbolically linking /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/build/pkg1/resource/pkg1 -> /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg1/share/ament_index/resource_index/packages
+symbolically linking /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/build/pkg1/package.xml -> /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg1/share/pkg1
