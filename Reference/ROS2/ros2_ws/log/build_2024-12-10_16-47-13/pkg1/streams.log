@@ -1,0 +1,24 @@
+[0.779s] Invoking command in '/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/src/pkg1': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/build/pkg1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg1/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pkg1 build --build-base /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/build/pkg1/build install --record /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/build/pkg1/install.log --single-version-externally-managed install_data
+[0.944s] running egg_info
+[0.954s] writing ../../build/pkg1/pkg1.egg-info/PKG-INFO
+[0.954s] writing dependency_links to ../../build/pkg1/pkg1.egg-info/dependency_links.txt
+[0.955s] writing entry points to ../../build/pkg1/pkg1.egg-info/entry_points.txt
+[0.955s] writing requirements to ../../build/pkg1/pkg1.egg-info/requires.txt
+[0.955s] writing top-level names to ../../build/pkg1/pkg1.egg-info/top_level.txt
+[0.976s] reading manifest file '../../build/pkg1/pkg1.egg-info/SOURCES.txt'
+[0.977s] writing manifest file '../../build/pkg1/pkg1.egg-info/SOURCES.txt'
+[0.977s] running build
+[0.977s] running build_py
+[0.977s] copying pkg1/node1.py -> /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/build/pkg1/build/lib/pkg1
+[0.977s] running install
+[0.981s] running install_lib
+[0.991s] copying /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/build/pkg1/build/lib/pkg1/node1.py -> /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg1/lib/python3.12/site-packages/pkg1
+[0.991s] byte-compiling /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg1/lib/python3.12/site-packages/pkg1/node1.py to node1.cpython-312.pyc
+[0.991s] running install_data
+[0.992s] running install_egg_info
+[1.002s] removing '/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg1/lib/python3.12/site-packages/pkg1-0.0.1-py3.12.egg-info' (and everything under it)
+[1.002s] Copying ../../build/pkg1/pkg1.egg-info to /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg1/lib/python3.12/site-packages/pkg1-0.0.1-py3.12.egg-info
+[1.003s] running install_scripts
+[1.089s] Installing python_node script to /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg1/lib/pkg1
+[1.089s] writing list of installed files to '/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/build/pkg1/install.log'
+[1.122s] Invoked command in '/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/src/pkg1' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/build/pkg1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg1/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pkg1 build --build-base /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/build/pkg1/build install --record /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/build/pkg1/install.log --single-version-externally-managed install_data
