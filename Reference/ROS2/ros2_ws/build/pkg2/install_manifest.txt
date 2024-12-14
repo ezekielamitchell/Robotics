@@ -1,0 +1,16 @@
+/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2/lib/pkg2/cpp_node
+/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2/share/ament_index/resource_index/package_run_dependencies/pkg2
+/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2/share/ament_index/resource_index/parent_prefix_path/pkg2
+/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2/share/pkg2/environment/ament_prefix_path.sh
+/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2/share/pkg2/environment/ament_prefix_path.dsv
+/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2/share/pkg2/environment/path.sh
+/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2/share/pkg2/environment/path.dsv
+/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2/share/pkg2/local_setup.bash
+/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2/share/pkg2/local_setup.sh
+/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2/share/pkg2/local_setup.zsh
+/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2/share/pkg2/local_setup.dsv
+/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2/share/pkg2/package.dsv
+/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2/share/ament_index/resource_index/packages/pkg2
+/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2/share/pkg2/cmake/pkg2Config.cmake
+/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2/share/pkg2/cmake/pkg2Config-version.cmake
+/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2/share/pkg2/package.xml

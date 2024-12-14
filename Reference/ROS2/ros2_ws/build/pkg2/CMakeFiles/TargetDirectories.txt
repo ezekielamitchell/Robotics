@@ -1,0 +1,10 @@
+/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/build/pkg2/CMakeFiles/uninstall.dir
+/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/build/pkg2/CMakeFiles/pkg2_uninstall.dir
+/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/build/pkg2/CMakeFiles/cpp_node.dir
+/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/build/pkg2/CMakeFiles/test.dir
+/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/build/pkg2/CMakeFiles/edit_cache.dir
+/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/build/pkg2/CMakeFiles/rebuild_cache.dir
+/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/build/pkg2/CMakeFiles/list_install_components.dir
+/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/build/pkg2/CMakeFiles/install.dir
+/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/build/pkg2/CMakeFiles/install/local.dir
+/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/build/pkg2/CMakeFiles/install/strip.dir

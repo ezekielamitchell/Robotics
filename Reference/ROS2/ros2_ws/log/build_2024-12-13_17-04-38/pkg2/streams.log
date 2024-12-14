@@ -1,0 +1,46 @@
+[0.349s] Invoking command in '/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/build/pkg2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2:/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg1:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /home/endr/anaconda3/envs/robotics/bin/cmake --build /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/build/pkg2 -- -j16 -l16
+[0.631s] [0mCMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):
+[0.631s]   Compatibility with CMake < 3.10 will be removed from a future version of
+[0.631s]   CMake.
+[0.631s] 
+[0.631s]   Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+[0.631s]   to tell CMake that the project requires at least <min> but has been updated
+[0.632s]   to work with policies introduced by <max> or earlier.
+[0.632s] 
+[0.632s] [0m
+[0.655s] -- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.915s] -- Found rclcpp: 28.1.5 (/opt/ros/jazzy/share/rclcpp/cmake)
+[0.953s] -- Found rosidl_generator_c: 4.6.4 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[0.965s] -- Found rosidl_generator_cpp: 4.6.4 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[0.980s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.999s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.091s] -- Found rmw_implementation_cmake: 7.3.1 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[1.092s] -- Found rmw_fastrtps_cpp: 8.4.1 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[1.234s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.524s] -- Configuring done (0.9s)
+[1.539s] -- Generating done (0.0s)
+[1.542s] -- Build files have been written to: /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/build/pkg2
+[1.573s] [ 50%] [32mBuilding CXX object CMakeFiles/cpp_node.dir/src/node1.cpp.o[0m
+[5.598s] [100%] [32m[1mLinking CXX executable cpp_node[0m
+[5.747s] [100%] Built target cpp_node
+[5.755s] Invoked command in '/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/build/pkg2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2:/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg1:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /home/endr/anaconda3/envs/robotics/bin/cmake --build /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/build/pkg2 -- -j16 -l16
+[5.918s] Invoking command in '/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/build/pkg2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2:/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg1:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /home/endr/anaconda3/envs/robotics/bin/cmake --install /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/build/pkg2
+[6.095s] -- Install configuration: ""
+[6.095s] -- Installing: /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2/lib/pkg2/cpp_node
+[6.096s] -- Set non-toolchain portion of runtime path of "/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2/lib/pkg2/cpp_node" to ""
+[6.097s] -- Up-to-date: /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2/share/ament_index/resource_index/package_run_dependencies/pkg2
+[6.097s] -- Up-to-date: /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2/share/ament_index/resource_index/parent_prefix_path/pkg2
+[6.097s] -- Up-to-date: /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2/share/pkg2/environment/ament_prefix_path.sh
+[6.097s] -- Up-to-date: /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2/share/pkg2/environment/ament_prefix_path.dsv
+[6.097s] -- Up-to-date: /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2/share/pkg2/environment/path.sh
+[6.097s] -- Up-to-date: /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2/share/pkg2/environment/path.dsv
+[6.098s] -- Up-to-date: /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2/share/pkg2/local_setup.bash
+[6.098s] -- Up-to-date: /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2/share/pkg2/local_setup.sh
+[6.098s] -- Up-to-date: /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2/share/pkg2/local_setup.zsh
+[6.098s] -- Up-to-date: /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2/share/pkg2/local_setup.dsv
+[6.098s] -- Installing: /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2/share/pkg2/package.dsv
+[6.098s] -- Up-to-date: /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2/share/ament_index/resource_index/packages/pkg2
+[6.098s] -- Up-to-date: /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2/share/pkg2/cmake/pkg2Config.cmake
+[6.098s] -- Up-to-date: /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2/share/pkg2/cmake/pkg2Config-version.cmake
+[6.099s] -- Up-to-date: /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2/share/pkg2/package.xml
+[6.103s] Invoked command in '/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/build/pkg2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2:/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg1:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /home/endr/anaconda3/envs/robotics/bin/cmake --install /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/build/pkg2
