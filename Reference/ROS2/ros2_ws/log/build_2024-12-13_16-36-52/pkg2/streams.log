@@ -1,6 +1,0 @@
-[0.417s] Invoking command in '/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/build/pkg2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2:/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg1:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /home/endr/.local/bin/cmake /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/src/pkg2 -DCMAKE_INSTALL_PREFIX=/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2
-[0.622s] Traceback (most recent call last):
-[0.622s]   File "/home/endr/.local/bin/cmake", line 5, in <module>
-[0.623s]     from cmake import cmake
-[0.623s] ModuleNotFoundError: No module named 'cmake'
-[0.653s] Invoked command in '/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/build/pkg2' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2:/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg1:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /home/endr/.local/bin/cmake /home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/src/pkg2 -DCMAKE_INSTALL_PREFIX=/home/endr/Developer/Robotics/Reference/ROS2/ros2_ws/install/pkg2
