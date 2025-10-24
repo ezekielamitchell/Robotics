@@ -3,42 +3,6 @@
 A comprehensive learning project following a structured OpenCV course curriculum for robotics applications.
 ref. Wood, K. (2025). [OpenCV Python Course — Learn Computer Vision and AI](https://youtu.be/TMqH2fYhxh0?si=4MjWietPnzh6MBjr)
 
-## Project Structure
-
-```
-OpenCV_Robotics/
-├── 01_basic/                 # Basic OpenCV concepts
-│   ├── 00_introduction/
-│   ├── 01_installation/
-│   ├── 02_images/
-│   ├── 03_videos/
-│   ├── 04_pixels/
-│   ├── 05_color_channels/
-│   ├── 06_grayscale/
-│   ├── 07_hsv_color/
-│   ├── 08_image_resizing/
-│   ├── 09_image_histogram/
-│   ├── 10_convolution/
-│   ├── 11_filtering/
-│   └── 12_thresholding/
-├── 02_advanced/              # Advanced OpenCV techniques
-│   ├── 01_image_gradient/
-│   ├── 02_canny_edge/
-│   ├── 03_line_detection/
-│   ├── 04_harris_corner/
-│   ├── 05_sift_features/
-│   ├── 06_optical_flow/
-│   ├── 07_camera_calibration/
-│   ├── 08_pose_estimation/
-│   └── 09_depth_estimation/
-├── datasets/                 # Sample images and test data
-├── utils/                    # Common utilities and helper functions
-├── experiments/              # Experimental code and prototypes
-├── docs/                     # Documentation and tutorials
-├── tests/                    # Unit tests and validation scripts
-└── requirements.txt          # Python dependencies
-```
-
 ## Course Curriculum
 
 ### 📚 Basic (01_basic/)
