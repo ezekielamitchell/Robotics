@@ -1,56 +1,41 @@
-Adafruit-Blinka==8.48.0
-adafruit-circuitpython-busdevice==5.2.10
-adafruit-circuitpython-connectionmanager==3.1.2
-adafruit-circuitpython-motor==3.4.14
-adafruit-circuitpython-pca9685==3.4.16
-adafruit-circuitpython-register==1.10.1
-adafruit-circuitpython-requests==4.1.8
-adafruit-circuitpython-servokit==1.3.18
-adafruit-circuitpython-typing==1.11.0
-Adafruit-PlatformDetect==3.75.0
-Adafruit-PureIO==1.1.11
-archspec @ file:///home/conda/feedstock_root/build_artifacts/archspec_1708969572489/work
-binho-host-adapter==0.1.6
-boltons @ file:///home/conda/feedstock_root/build_artifacts/boltons_1711936407380/work
-Brotli @ file:///home/conda/feedstock_root/build_artifacts/brotli-split_1725267514489/work
-certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1725278078093/work/certifi
-cffi @ file:///home/conda/feedstock_root/build_artifacts/cffi_1725560845041/work
-charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1698833585322/work
-colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1666700638685/work
-conda @ file:///home/conda/feedstock_root/build_artifacts/conda_1722273199273/work
-conda-libmamba-solver @ file:///home/conda/feedstock_root/build_artifacts/conda-libmamba-solver_1721292473987/work/src
-conda-package-handling @ file:///home/conda/feedstock_root/build_artifacts/conda-package-handling_1717678605937/work
-conda_package_streaming @ file:///home/conda/feedstock_root/build_artifacts/conda-package-streaming_1717678526951/work
-distro @ file:///home/conda/feedstock_root/build_artifacts/distro_1704321475663/work
-frozendict @ file:///home/conda/feedstock_root/build_artifacts/frozendict_1726948694582/work
-h2 @ file:///home/conda/feedstock_root/build_artifacts/h2_1634280454336/work
-hpack==4.0.0
-hyperframe @ file:///home/conda/feedstock_root/build_artifacts/hyperframe_1619110129307/work
-idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1726459485162/work
-jsonpatch @ file:///home/conda/feedstock_root/build_artifacts/jsonpatch_1695536281965/work
-jsonpointer @ file:///home/conda/feedstock_root/build_artifacts/jsonpointer_1725302968769/work
-libmambapy @ file:///home/conda/feedstock_root/build_artifacts/mamba-split_1725066215663/work/libmambapy
-mamba @ file:///home/conda/feedstock_root/build_artifacts/mamba-split_1725066215663/work/mamba
-menuinst @ file:///home/conda/feedstock_root/build_artifacts/menuinst_1725359074176/work
-packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1718189413536/work
-platformdirs @ file:///home/conda/feedstock_root/build_artifacts/platformdirs_1726613481435/work
-pluggy @ file:///home/conda/feedstock_root/build_artifacts/pluggy_1713667077545/work
-pycosat @ file:///home/conda/feedstock_root/build_artifacts/pycosat_1696355778847/work
-pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1711811537435/work
-pyftdi==0.55.4
-pyserial==3.5
-PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1661604839144/work
-pyusb==1.2.1
-requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1717057054362/work
-RPi.GPIO==0.7.1
-rpi_ws281x==5.0.0
-ruamel.yaml @ file:///home/conda/feedstock_root/build_artifacts/ruamel.yaml_1707298148233/work
-ruamel.yaml.clib @ file:///home/conda/feedstock_root/build_artifacts/ruamel.yaml.clib_1707314500093/work
-setuptools==74.1.2
-sysv_ipc==1.1.0
-tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1722737464726/work
-truststore @ file:///home/conda/feedstock_root/build_artifacts/truststore_1724770958874/work
-typing_extensions==4.12.2
-urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1726496430923/work
-wheel==0.44.0
-zstandard==0.23.0
+# ResponsiveArm.pi Requirements
+# Robotic arm control system dependencies for Raspberry Pi
+
+# Adafruit Libraries for Servo Control
+Adafruit-Blinka>=8.40.0
+adafruit-circuitpython-busdevice>=5.2.0
+adafruit-circuitpython-motor>=3.4.0
+adafruit-circuitpython-pca9685>=3.4.0
+adafruit-circuitpython-servokit>=1.3.0
+Adafruit-PlatformDetect>=3.70.0
+Adafruit-PureIO>=1.1.0
+
+# GPIO and Hardware Interface
+RPi.GPIO>=0.7.1
+pyserial>=3.5
+pyusb>=1.2.0
+pyftdi>=0.55.0
+
+# ROS Integration (install separately if needed)
+# rospy
+# tf2-ros
+# geometry-msgs
+# std-msgs
+
+# System and Configuration
+PyYAML>=6.0
+python-dotenv>=1.0.0
+
+# Utilities
+requests>=2.31.0
+setuptools>=65.0.0
+
+# Testing
+pytest>=7.3.0
+
+# Optional: LED Control
+# rpi_ws281x>=5.0.0  # For WS2812 LED strips
+
+# Note: For ROS integration, install ROS packages separately:
+# See: http://wiki.ros.org/Installation
+
